@@ -1,0 +1,85 @@
+<?xml version="1.0" standalone="no"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg width="198" height="58" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs xmlns="http://www.w3.org/1999/xhtml"><style type="text/css"><![CDATA[
+.eApGrV { font-family: Lekton, sans-serif; color: rgb(85, 51, 68); }
+.biaJqi { font-style: italic; margin-top: 12mm; font-variant: small-caps; }
+.biaJqi::before { content: "☙ "; }
+.biaJqi::after { content: " ❧"; }
+.hEnOXK { font-style: italic; }
+.iwwuaY { padding: 2px; height: 20px; vertical-align: middle; display: inline; }
+.MZiis { padding: 2px; height: 20px; vertical-align: middle; display: block; }
+.ekSFIk { padding: 2px; height: 20px; vertical-align: middle; display: inline; cursor: pointer; }
+.dvtxTP { height: 15px; border-style: solid; border-color: rgb(187, 153, 170); border-image: initial; border-width: 0px 0px 1px; padding: 0px; text-align: center; color: rgb(85, 51, 68); }
+.dvtxTP:focus { outline: 0px; }
+.hroLrC { border: 0px; display: block; height: 3mm; }
+.dsLYHO { font-style: italic; }
+.bVNUzm { margin-left: 10px; margin-right: 10px; }
+.gdOmjA { position: relative; vertical-align: middle; display: inline-block; }
+.hKhDEt { line-height: 1.2em; padding: 0.1em 0.3em; border-radius: 4px; background: rgb(238, 238, 255); font-family: Lekton; white-space: nowrap; }
+.eEwSyy { margin-top: 10px; margin-bottom: 10px; }
+.fahYJt { display: inline-block; padding: 1px 14px 10px; border-radius: 4px; background: rgb(238, 238, 255); }
+.ixkhXL { font-family: system-ui; font-size: 11px; text-transform: lowercase; }
+.ftItQu { font-family: system-ui; font-size: 11px; color: rgb(153, 153, 153); }
+.lmaohq { height: 18px; float: left; display: flex; flex-direction: column; margin: 0px; }
+.lmaodE { height: 78px; float: left; display: flex; flex-direction: column; margin: 0px; }
+.ilMFIY { height: 78px; float: left; display: flex; flex-direction: column; margin: 0px; padding: 0px 8px; }
+.bZtSwY { margin-top: 0px; margin-left: 3px; }
+.fVPqKa { margin-top: 39px; margin-left: 3px; }
+.jGkcbo { margin-top: 39px; }
+.eLWyda { margin: 5px; }
+.bLDieu { margin: 5px 10px; }
+.cUulgU { margin: 5px; }
+.bJrDvE { width: 200px; margin-left: auto; margin-right: auto; font-family: Lato, sans-serif; font-size: 12px; }
+.bJrDvE .markup-format__control { background-image: linear-gradient(-180deg, rgb(0, 174, 255) 0%, rgb(0, 118, 255) 100%); border: 0px solid rgba(238, 239, 241, 0.8); box-shadow: unset; cursor: copy; }
+.bJrDvE .markup-format__control--is-disabled { background: rgba(0, 118, 255, 0.3); cursor: none; }
+.bJrDvE .markup-format__placeholder { color: rgb(238, 239, 241); }
+.bJrDvE .markup-format__indicator { color: rgba(238, 239, 241, 0.81); cursor: pointer; }
+.bJrDvE .markup-format__indicator:hover { color: rgb(238, 239, 241); }
+.bJrDvE .markup-format__control--is-focused .markup-format__indicator, .bJrDvE .markup-format__control--is-focused .markup-format__indicator:hover { color: rgb(255, 255, 255); }
+.bJrDvE .markup-format__option { text-align: left; cursor: copy; }
+.fkWDKt { position: relative; display: inline-block; }
+.iwgsyJ { width: 100vw; position: absolute; left: 50%; transform: translateX(-50%); will-change: opacity, top; pointer-events: none; }
+.cpdPli { text-align: center; }
+.eLBLmg { display: block; max-width: 800px; margin: 0px auto; text-align: left; }
+.cPHdAh { display: inline-block; text-align: left; line-height: 1.2em; padding: 16px 18px; border-radius: 4px; background: rgb(238, 238, 255); font-family: Lekton; white-space: pre; }
+.kQdBJl { display: inline-block; max-width: 800px; margin: 0px; padding: 10px; text-align: left; background: rgb(239, 239, 239); clear: both; overflow: hidden; }
+.kQdBJl dt, .kQdBJl dd { padding: 0px 1%; margin-top: 8px; margin-bottom: 8px; float: left; }
+.kQdBJl dt { width: 100px; clear: both; }
+.kQdBJl dd { margin-left: 20px; width: 75%; }
+.evHtBU { width: 70px; margin-left: 5px; margin-right: 5px; }
+.cwhOjH { width: 40%; background-color: transparent; }
+.hJMfvB { display: flex; flex-direction: column; height: 37px; width: 100%; -webkit-box-pack: center; justify-content: center; }
+.haZQTb { width: 100%; text-align: center; margin-top: 2px; margin-bottom: 10px; }
+.hVtiMU { width: 100%; text-align: center; }
+.bCtoFE { min-width: 50%; margin: auto; }
+.bCtoFE th, .bCtoFE td { text-align: left; }
+.iyINOu { cursor: pointer; }
+.kUKQE { cursor: pointer; }
+.btGAAU { padding: 25px 50px; }
+.hvlNKq { max-width: 800px; margin: 35px auto 20px; text-align: left; }
+.fuAIzz { text-align: center; }
+.bKEstk { white-space: nowrap; }
+.KokYs { text-align: right; }
+.jpqQeM { margin: auto; }
+.fsdTly { min-width: 50%; margin: auto; table-layout: fixed; border-spacing: 20px 10px; }
+.gmjwbg { max-width: 300px; text-align: left; }
+.kZzODb { max-width: 600px; text-align: left; }
+.ctrCCK ul { display: flex; min-width: 50%; max-width: 500px; margin: 0px auto 20px; padding-inline-start: 0px; flex-wrap: wrap; -webkit-box-pack: center; justify-content: center; list-style-type: none; }
+.ctrCCK li { margin: 4px 10px; }
+.ctrCCK .active { font-weight: 900; }
+.jlqrQe { text-align: center; }
+* { box-sizing: border-box; }
+.css-14jk2my-container { pointer-events: none; position: relative; box-sizing: border-box; }
+.css-7pg0cj-a11yText { z-index: 9999; border: 0px; clip: rect(1px, 1px, 1px, 1px); height: 1px; width: 1px; position: absolute; overflow: hidden; padding: 0px; white-space: nowrap; }
+.css-1fhf3k1-control { -webkit-box-align: center; align-items: center; background-color: rgb(242, 242, 242); border-color: rgb(230, 230, 230); border-radius: 4px; border-style: solid; border-width: 1px; cursor: default; display: flex; flex-wrap: wrap; -webkit-box-pack: justify; justify-content: space-between; min-height: 38px; position: relative; transition: all 100ms ease 0s; box-sizing: border-box; outline: 0px !important; }
+.css-1fhf3k1-control:hover { border-color: rgb(179, 179, 179); }
+.css-1hwfws3 { -webkit-box-align: center; align-items: center; display: flex; flex: 1 1 0%; flex-wrap: wrap; padding: 2px 8px; position: relative; overflow: hidden; box-sizing: border-box; }
+.css-1wa3eu0-placeholder { color: rgb(128, 128, 128); margin-left: 2px; margin-right: 2px; position: absolute; top: 50%; transform: translateY(-50%); box-sizing: border-box; }
+.css-62g3xt-dummyInput { background: 0px center; border: 0px; font-size: inherit; outline: 0px; padding: 0px; width: 1px; color: transparent; left: -100px; opacity: 0; position: relative; transform: scale(0); }
+.css-1wy0on6 { -webkit-box-align: center; align-items: center; align-self: stretch; display: flex; flex-shrink: 0; box-sizing: border-box; }
+.css-109onse-indicatorSeparator { align-self: stretch; background-color: rgb(230, 230, 230); margin-bottom: 8px; margin-top: 8px; width: 1px; box-sizing: border-box; }
+.css-tlfecz-indicatorContainer { color: rgb(204, 204, 204); display: flex; padding: 8px; transition: color 150ms ease 0s; box-sizing: border-box; }
+.css-tlfecz-indicatorContainer:hover { color: rgb(153, 153, 153); }
+.css-8mmkcg { display: inline-block; fill: currentcolor; line-height: 1; stroke: currentcolor; stroke-width: 0; }
+.css-2b097c-container { position: relative; box-sizing: border-box; }
+.css-yk16xz-control { -webkit-box-align: center; align-items: center; background-color: rgb(255, 255, 255); border-color: rgb(204, 204, 204); border-radius: 4px; border-style: solid; border-width: 1px; cursor: default; display: flex; flex-wrap: wrap; -webkit-box-pack: justify; justify-content: space-between; min-height: 38px; position: relative; transition: all 100ms ease 0s; box-sizing: border-box; outline: 0px !important; }
+.css-yk16xz-control:hover { border-color: rgb(179, 179, 179); }
+.css-1okebmr-indicatorSeparator { align-self: stretch; background-color: rgb(204, 204, 204); margin-bottom: 8px; margin-top: 8px; width: 1px; box-sizing: border-box; }]]></style></defs><rect rx="8" x="140" width="55" height="58"/><g stroke="#000" stroke-width="8"><path d="M135.5 54a8 8 0 0 0 8.5 -8.5"/><rect x="4" y="4" rx="8" width="190" height="50" fill="none"/></g><path d="m23.906 33.641c.953-.083 1.906-.167 2.859-.25.108 2.099 1.511 4.139 3.578 4.722 2.438.895 5.357.799 7.559-.658 1.49-1.129 1.861-3.674.324-4.925-1.557-1.322-3.685-1.504-5.576-2.057-2.343-.565-4.912-1.133-6.611-2.979-1.805-2.088-1.627-5.485.292-7.443 2.041-2.113 5.222-2.55 8.02-2.274 2.46.244 5.058 1.343 6.252 3.635.426.908 1.095 2.241.656 3.108-.888.173-1.81.148-2.715.245-.077-2.084-1.727-4.073-3.863-4.234-1.902-.317-4.02-.252-5.691.802-1.398.989-1.849 3.363-.381 4.494 1.281 1.01 2.962 1.199 4.482 1.642 2.66.627 5.602 1.118 7.596 3.158 2 2.188 1.893 5.84-.088 8.01-2.01 2.32-5.304 2.972-8.237 2.713-2.585-.147-5.319-1.024-6.916-3.184-.987-1.288-1.517-2.905-1.542-4.523"/><path d="m45.953 41c0-7.635 0-15.271 0-22.906.938 0 1.875 0 2.813 0 0 2.74 0 5.479 0 8.219 1.391-1.721 3.69-2.523 5.86-2.236 1.975.154 4.03 1.371 4.513 3.402.504 1.973.278 4.02.33 6.04 0 2.495 0 4.989 0 7.484-.938 0-1.875 0-2.813 0-.009-3.675.018-7.351-.014-11.03-.026-1.342-.627-2.835-2-3.282-2.187-.802-5.077.393-5.609 2.773-.417 1.764-.216 3.586-.264 5.381 0 2.051 0 4.102 0 6.153-.938 0-1.875 0-2.813 0"/><path d="m63.781 21.328v-3.234h2.813v3.234zm0 19.672v-16.594h2.813v16.594z"/><path d="m82.25 35.656c.969.12 1.938.24 2.906.359-.702 3.464-4.348 5.767-7.781 5.386-3.235-.066-6.43-2.328-7.06-5.598-.843-3.307-.404-7.285 2.101-9.784 3.082-3 8.699-2.618 11.235.892 1.374 1.85 1.676 4.267 1.578 6.51-4.125 0-8.25 0-12.375 0-.142 2.889 2.267 6 5.346 5.658 1.881-.162 3.613-1.566 4.045-3.423m-9.234-4.547c3.089 0 6.177 0 9.266 0 .129-2.774-2.616-5.422-5.419-4.713-2.174.427-3.912 2.474-3.846 4.713"/><path d="m88.64 41v-22.906h2.813v22.906z"/><path d="m106.59 41c0-.698 0-1.396 0-2.094-1.412 2.442-4.776 3.067-7.233 1.949-2.378-1.02-3.971-3.403-4.345-5.924-.507-2.761-.123-5.768 1.389-8.167 1.863-2.705 5.968-3.642 8.711-1.741.422.228 1.028 1.144 1.294 1.018-.006-2.649-.0001-5.298-.003-7.948.932 0 1.865 0 2.797 0 0 7.635 0 15.271 0 22.906-.87 0-1.74 0-2.61 0m-8.89-8.281c-.075 2.246.637 4.861 2.79 5.952 2 1.023 4.682-.047 5.488-2.134.897-1.996.746-4.278.388-6.382-.425-1.95-2.046-3.804-4.158-3.805-1.903-.065-3.633 1.363-4.099 3.181-.327 1.028-.394 2.116-.408 3.188"/><path d="m112.52 36.05c.927-.146 1.854-.292 2.781-.438.126 1.69 1.513 3.244 3.239 3.365 1.398.212 3.01.12 4.12-.851.807-.749 1.1-2.243.159-3.01-.908-.723-2.115-.812-3.182-1.172-1.797-.485-3.713-.848-5.243-1.97-1.83-1.551-1.868-4.679-.099-6.293 1.577-1.507 3.918-1.784 6-1.594 1.685.176 3.54.749 4.535 2.217.464.715.708 1.549.844 2.384-.917.125-1.833.25-2.75.375-.121-1.569-1.653-2.762-3.19-2.695-1.246-.082-2.702.012-3.608.982-.624.724-.543 1.971.314 2.481.998.706 2.269.757 3.389 1.173 1.754.512 3.647.848 5.141 1.965 1.686 1.476 1.728 4.244.396 5.966-1.298 1.788-3.597 2.417-5.709 2.448-1.466-.007-2.984-.214-4.299-.893-1.599-.909-2.585-2.655-2.84-4.444"/><g fill="#fff"><path d="m151.11 41v-22.906h3.03v22.906z"/><path d="m158.55 29.844c-.277-4.765 2.335-9.977 7.05-11.551 4.902-1.757 11.226.197 13.477 5.098 2.266 4.706 1.89 10.92-1.767 14.833-4.554 4.948-13.81 3.976-17.08-1.954-1.111-1.946-1.679-4.188-1.68-6.426m3.125.047c-.377 4.273 2.892 8.844 7.375 8.951 3.791.221 7.557-2.653 7.997-6.497.794-3.731.139-8.292-3.107-10.696-3.788-2.814-10.05-1.104-11.591 3.444-.54 1.539-.642 3.181-.675 4.798"/></g></svg>
